@@ -11,3 +11,5 @@ while goon_ksk != 1:
         break
     else:
         print("GOON JA OR NEJ!")
+
+#i am goon
